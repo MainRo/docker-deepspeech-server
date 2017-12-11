@@ -1,6 +1,6 @@
 # Docker DeepSpeech Server
 
-This is a dockerfile to serve a deepspeech server.
+This is a dockerfile to serve a [deepspeech server](https://github.com/MainRo/deepspeech-server).
 
 # Who to use this image
 
