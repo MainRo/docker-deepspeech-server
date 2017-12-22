@@ -2,7 +2,7 @@
 
 This is a dockerfile to serve a [deepspeech server](https://github.com/MainRo/deepspeech-server).
 
-# Who to use this image
+# How to use this image
 
     docker build -t deepspeech .
     run -dt --name deepspeech -p 0.0.0.0:8000:8000 -v [host-model-path]:/opt/deepspeech deepspeech
