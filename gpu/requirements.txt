@@ -1,0 +1,2 @@
+deepspeech-gpu==0.8.2
+deepspeech-server==2.1.0
